@@ -11,6 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import java.util.List;
 
+// ning
 public class Adapter_bought extends ArrayAdapter<MyGoodsdata> {
     private int resourceId;
     private Context context;
